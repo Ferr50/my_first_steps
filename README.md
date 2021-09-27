@@ -2,7 +2,6 @@
 praticando git
 
 Questão 1:
-
 https://github.com/Ferr50/my_first_steps.git
 
 
@@ -16,7 +15,8 @@ fernando in ~/Desktop/AlphaED
 ❯ cd Git01  
 fernando in Desktop/AlphaED/Git01 
 ❯ git init               
-Initialized empty Git repository in /Users/fernando/Desktop/AlphaED/Git01/.git/
+Initialized empty Git repository in /Users/fernando/Desktop
+AlphaED/Git01/.git/
 fernando in Git01 on  master 
 ❯ git pull https://github.com/Ferr50/my_first_steps.git
 remote: Enumerating objects: 4, done.
